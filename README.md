@@ -9,7 +9,7 @@ Gather here all the project requirements
 - [x] Requirement 1 
 - [ ] Requirement 2
  
-Mark as complete every requirement that you fulfil
+Mark as complete every requirement that you fulfill
 
 ## Hightlights
 
