@@ -1,6 +1,6 @@
 # CodeChallenge1-Skeleton
 
-Add your project description here
+Add your project description here.
 
 ## Requirements
 
@@ -9,11 +9,11 @@ Gather here all the project requirements
 - [x] Requirement 1 
 - [ ] Requirement 2
  
-Mark as complete every requirement that you fulfill
+Mark as complete every requirement that you fulfill.
 
-## Hightlights
+## Hightlights (optional)
 
-Maybe you want to hightlight some features that you do in addition of the requirments
+Hightlight some features that you do in addition of the requirments.
 
 ## Installation
 
