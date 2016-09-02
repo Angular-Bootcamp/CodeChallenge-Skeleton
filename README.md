@@ -6,14 +6,14 @@ Add your project description here.
 
 Gather here all the project requirements
 
-- [x] Requirement 1 
+- [x] Requirement 1
 - [ ] Requirement 2
- 
+
 Mark as complete every requirement that you fulfill.
 
-## Hightlights (optional)
+## Highlights (optional)
 
-Hightlight some features that you do in addition of the requirments.
+Highlight some features that you do in addition of the requirements.
 
 ## Installation
 
