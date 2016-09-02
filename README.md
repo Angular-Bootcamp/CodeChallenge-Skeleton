@@ -2,6 +2,21 @@
 
 Add your project description here.
 
+## Primary objective
+
+...
+
+## Secondary objectives
+
+...
+
+## Workstation
+
+* Node.js
+* Git
+* An IDE or text editor of your preference (Sublime text, Atom, etc)
+* Google Chrome
+
 ## Requirements
 
 Gather here all the project requirements
