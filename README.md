@@ -4,19 +4,20 @@ Add your challenge description here.
 
 ## Primary objective
 
-What's the primary objective of the challenge? 
+Describe the primary objective here.
 
 **Example**: The primary objective of this challenge is to *"summary"*, so the user can *"description"*. 
 
-## Secondary objectives
+## Secondary objectives (optional)
 
-What's the secondary objective(s) of the challenge?
+Describe the secondary objective(s) here. Here's an example: 
 
-**Example**: The secondary objectives of this challenge are:
+The secondary objectives of this challenge are:
 
 * Use a spcific datatype (json, xml, etc).
 * Use controllers in AngularJS.
 * Understand the filter process.
+* .
 * ...
 
 ## Workstation
@@ -32,8 +33,10 @@ Here you can list/describe your workstation used for this challenge. Here's an e
 
 Gather all the challenge requirements here.
 
-* Requirement 1
-* Requirement 2
+* Req x
+* Req y
+* .
+* ...
 
 ## Highlights (optional)
 
