@@ -1,16 +1,27 @@
 # CodeChallenge1-Skeleton
 
-Add your project description here.
+Add your challenge description here.
 
 ## Primary objective
 
-...
+What's the primary objective of the challenge? 
+
+**Example**: The primary objective of this challenge is to *"summary"*, so the user can *"description"*. 
 
 ## Secondary objectives
 
-...
+What's the secondary objective(s) of the challenge?
+
+**Example**: The secondary objectives of this challenge are:
+
+* Use a spcific datatype (json, xml, etc).
+* Use controllers in AngularJS.
+* Understand the filter process.
+* ...
 
 ## Workstation
+
+Here you can list/describe your workstation used for this challenge. Here's an example:
 
 * Node.js
 * Git
@@ -19,17 +30,15 @@ Add your project description here.
 
 ## Requirements
 
-Gather here all the project requirements
+Gather all the challenge requirements here.
 
-- [x] Requirement 1
-- [ ] Requirement 2
-
-Mark as complete every requirement that you fulfill.
+* Requirement 1
+* Requirement 2
 
 ## Highlights (optional)
 
-Highlight some features that you do in addition of the requirements.
+Highlight the features that you create in addition of the requirements.
 
 ## Installation
 
-Describe the process (step by step) to successfully install this project.
+Describe the process (step by step) to successfully install your application.
