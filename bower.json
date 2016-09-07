@@ -1,0 +1,20 @@
+{
+  "name": "CodeChallenge-Skeleton",
+  "homepage": "https://github.com/Angular-Bootcamp/CodeChallenge-Skeleton",
+  "authors": [
+    "David Sosa Valdes <david.sosa.valdes@gmail.com>"
+  ],
+  "description": "Code Challenge Skeleton used for the Bootcamp projects",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
