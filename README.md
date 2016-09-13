@@ -6,11 +6,11 @@ Add your challenge description here.
 
 Describe the primary objective here.
 
-**Example**: The primary objective of this challenge is to *"summary"*, so the user can *"description"*. 
+**Example**: The primary objective of this challenge is to *"summary"*, so the user can *"description"*.
 
 ## Secondary objectives (optional)
 
-Describe the secondary objective(s) here. Here's an example: 
+Describe the secondary objective(s) here. Here's an example:
 
 The secondary objectives of this challenge are:
 
@@ -44,4 +44,13 @@ Highlight the features that you create in addition of the requirements.
 
 ## Installation
 
-Describe the process (step by step) to successfully install your application.
+Install the dependencies:
+
+  bower install
+  npm install
+
+Finally, run the application with node:
+
+  node start
+
+Describe here the process (step by step) to successfully install your application.
