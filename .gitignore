@@ -1,3 +1,5 @@
 # Dependency directories
 /node_modules/
 /app/vendor/**
+.sass-cache/
+/app/styles/app.css*
