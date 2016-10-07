@@ -49,6 +49,10 @@ Install the dependencies:
   bower install
   npm install
 
+Compile de styles using sass:
+
+  sass app/sass/main.scss app/styles/app.css --trace
+
 Finally, run the application with node:
 
   node start

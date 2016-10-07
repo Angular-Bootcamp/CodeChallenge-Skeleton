@@ -3,3 +3,4 @@
 /app/vendor/**
 .sass-cache/
 /app/styles/app.css*
+/data/pokedex.json
