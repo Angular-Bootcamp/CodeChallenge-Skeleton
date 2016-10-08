@@ -51,11 +51,11 @@ Install the dependencies:
 
 Compile de styles using sass:
 
-    sass app/sass/main.scss app/styles/app.css --trace
+    sass app/sass/main.scss app/styles/app.css
 
-Next, create a local pokedex data with the command:
+Next, create a local pokedex data with the command (it takes a while):
 
-    npm populate-pokedex
+    npm install
 
 Finally, run the application with node:
 
