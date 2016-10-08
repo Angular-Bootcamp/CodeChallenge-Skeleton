@@ -46,15 +46,19 @@ Highlight the features that you create in addition of the requirements.
 
 Install the dependencies:
 
-  bower install
-  npm install
+    bower install
+    npm install
 
 Compile de styles using sass:
 
-  sass app/sass/main.scss app/styles/app.css --trace
+    sass app/sass/main.scss app/styles/app.css --trace
+
+Next, create a local pokedex data with the command:
+
+    npm populate-pokedex
 
 Finally, run the application with node:
 
-  node start
+    npm start
 
 Describe here the process (step by step) to successfully install your application.
