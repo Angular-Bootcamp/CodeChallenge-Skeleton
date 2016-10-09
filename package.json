@@ -1,20 +1,21 @@
 {
-  "name": "CodeChallenge-Skeleton",
+  "name": "generator-accenture-bootcamp-skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code Challenge Skeleton for the Accenture Bootcamp project.",
+  "files": [
+    "generators/app"
+  ],
   "author": "David Sosa Valdes",
+  "keywords": [
+    "yeoman-generator",
+    "accenture",
+    "bootcamp"
+  ],
   "license": "MIT",
-  "scripts": {
-    "start": "node src/server.js",
-    "install": "node src/pokeapi.local.js"
-  },
   "dependencies": {
-    "express": "^4.14.0",
-    "sass": "^0.5.0"
-  },
-  "devDependencies": {
-    "node-base64-image": "^1.0.1",
-    "request": "^2.75.0",
-    "progress": "^1.1.8"
+    "chalk": "^1.1.3",
+    "lodash": "^4.16.4",
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^0.24.1"
   }
 }
