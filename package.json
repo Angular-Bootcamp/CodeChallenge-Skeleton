@@ -1,6 +1,6 @@
 {
   "name": "generator-accenture-bootcamp-skeleton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code Challenge Skeleton for the Accenture Bootcamp project.",
   "files": [
     "generators/app"
