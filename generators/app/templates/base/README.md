@@ -44,10 +44,7 @@ Highlight the features that you create in addition of the requirements.
 
 ## Installation
 
-Install the dependencies:
-
-    bower install
-    npm install
+Describe here the process (step by step) to successfully install your application.
 
 Compile de styles using sass:
 
@@ -55,10 +52,8 @@ Compile de styles using sass:
 
 Next, create a local pokedex data with the command (it takes a while):
 
-    npm install
+    node src/pokeapi.local.js
 
-Finally, run the application with node:
+Run the application with node:
 
-    npm start
-
-Describe here the process (step by step) to successfully install your application.
+    node src/server.js

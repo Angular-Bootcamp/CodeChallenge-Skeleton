@@ -18,7 +18,7 @@ const config = {
   apiUrl   : 'http://pokeapi.co/api/v2',
   filePath : './data/pokedex.json',
   min      : 1,
-  max      : 15,
+  max      : 10,
   pad      : 3
 };
 
