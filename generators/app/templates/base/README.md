@@ -46,7 +46,7 @@ Highlight the features that you create in addition of the requirements.
 
 Describe here the process (step by step) to successfully install your application.
 
-Compile de styles using sass:
+Compile the styles using sass:
 
     sass app/sass/main.scss app/styles/app.css
 
